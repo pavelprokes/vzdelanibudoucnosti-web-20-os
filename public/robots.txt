@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://vzdelanibudoucnosti.cz
+
+# Sitemaps
+Sitemap: https://vzdelanibudoucnosti.cz/sitemap.xml

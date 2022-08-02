@@ -1,0 +1,236 @@
+{
+  "id": "Yb8mHxYAACYAqKTv",
+  "uid": null,
+  "url": null,
+  "type": "course",
+  "href": "https://vzdelanibudoucnosti.cdn.prismic.io/api/v2/documents/search?ref=YflTxhIAACoAiMKf&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Yb8mHxYAACYAqKTv%22%29+%5D%5D",
+  "tags": [
+    "Projektové dny",
+    "Python",
+    "Programování online"
+  ],
+  "first_publication_date": "2022-01-04T20:39:44+0000",
+  "last_publication_date": "2022-01-05T15:59:34+0000",
+  "slugs": [
+    "3d-tisk-jak-na-3d-tisk",
+    "3d-tisk-jak-na-3d-tisk-zdarma",
+    "minecraft-minecraft-hour-of-codeii"
+  ],
+  "linked_documents": [],
+  "lang": "cs-cz",
+  "alternate_languages": [],
+  "data": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "3D tisk: Jak na 3D tisk",
+        "spans": []
+      }
+    ],
+    "age_group": "children",
+    "type": "online",
+    "difficulty": "1",
+    "course_type": "projectDays",
+    "technology": {
+      "id": "X7_uPBIAACcAdwcA",
+      "type": "technology",
+      "tags": [],
+      "lang": "cs-cz",
+      "slug": "3d-tisk",
+      "first_publication_date": "2020-11-26T18:04:47+0000",
+      "last_publication_date": "2020-12-16T07:38:14+0000",
+      "uid": "3d-tisk",
+      "data": {
+        "name": [
+          {
+            "type": "heading1",
+            "text": "3D tisk",
+            "spans": []
+          }
+        ],
+        "color": "3d-tisk"
+      },
+      "link_type": "Document",
+      "isBroken": false
+    },
+    "capacity": 500,
+    "excerpt": [
+      {
+        "type": "paragraph",
+        "text": "Jak správně pohlížet na 3D tisk? Jaká tiskárna je nejlepší vzhledem k cena/výkon? Jak se liší teploty různých filamentů? To vše a ještě mnohem víc probereme na této ukázce.",
+        "spans": []
+      }
+    ],
+    "registration_google_spreadsheet_url": {
+      "link_type": "Web",
+      "url": "https://docs.google.com/spreadsheets/d/1qmCBazsMGHq0ZfsFuMWxOszCm-wToE-BZl4gCF8p-bk/edit?usp=sharing"
+    },
+    "registration_open_from": "2021-12-31T23:00:00+0000",
+    "registration_open_to": "2022-01-20T02:59:59+0000",
+    "when": [
+      {
+        "type": "paragraph",
+        "text": "20. 1. 2022 od 19:00  do 21:00",
+        "spans": []
+      }
+    ],
+    "where": [
+      {
+        "type": "paragraph",
+        "text": "Online",
+        "spans": []
+      }
+    ],
+    "price": 0,
+    "additional_information": [
+      {
+        "type": "paragraph",
+        "text": "Akce je zdarma a koná se online v aplikaci Zoom. ",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "image",
+        "url": "https://prismic-io.s3.amazonaws.com/vzdelanibudoucnosti/7e8208fe-f004-440b-a586-a3ddb133c482_Vb_projektove_dny_1024x628px_11+-+Copy.jpg",
+        "alt": null,
+        "copyright": null,
+        "dimensions": {
+          "width": 4267,
+          "height": 2617
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": "Projektový den je rozdělený do 2 bloků.",
+        "spans": []
+      },
+      {
+        "type": "heading3",
+        "text": "Blok I (18:45 - 19:45) ",
+        "spans": [
+          {
+            "start": 0,
+            "end": 22,
+            "type": "strong"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "V první části probereme základní informace o 3D tisku: co to je 3D tisk, kde vzít hotové 3D modely, v jakém software modelovat, proč se stal tak populární, materiály pro tisk, tiskárny a ukážeme si také hotové modely. Na konci bloku si ukážeme samotnou 3D tiskárnu.",
+        "spans": []
+      },
+      {
+        "type": "heading3",
+        "text": "Blok II (19:45 - 20:45)",
+        "spans": [
+          {
+            "start": 0,
+            "end": 23,
+            "type": "strong"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "V druhém bloku přejdeme k jednoduchému modelování. Poté si povíme jak připravit model k tisku. Pustíme samotný tisk. Tisk budete moci sledovat online - živě. Blok ukončíme nabídkou kroužku 3D tisku.",
+        "spans": []
+      },
+      {
+        "type": "paragraph",
+        "text": "",
+        "spans": []
+      },
+      {
+        "type": "paragraph",
+        "text": "Naši lektoři programování budou čekat na tvé případné dotazy na online chatu.",
+        "spans": []
+      },
+      {
+        "type": "heading3",
+        "text": "Potřebný software:",
+        "spans": [
+          {
+            "start": 0,
+            "end": 18,
+            "type": "strong"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Jak nainstalovat Zoom a pracovat s ním najdeš zde:  Návod",
+        "spans": [
+          {
+            "start": 52,
+            "end": 57,
+            "type": "hyperlink",
+            "data": {
+              "link_type": "Web",
+              "url": "https://www.vzdelanibudoucnosti.cz/blog/aktuality/videokonference-zoom--navod"
+            }
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "",
+        "spans": []
+      }
+    ],
+    "lecturer": {
+      "id": "X3XUeREAAFL_2-CY",
+      "type": "author",
+      "tags": [],
+      "lang": "cs-cz",
+      "slug": "pavel-prokes",
+      "first_publication_date": "2020-10-01T13:07:10+0000",
+      "last_publication_date": "2020-11-27T15:34:05+0000",
+      "uid": "pavel-prokes",
+      "data": {
+        "name": [
+          {
+            "type": "heading1",
+            "text": "Pavel Prokeš",
+            "spans": []
+          }
+        ],
+        "email": [
+          {
+            "type": "paragraph",
+            "text": "pavel@vzdelanibudoucnosti.cz",
+            "spans": []
+          }
+        ],
+        "bio": [
+          {
+            "type": "paragraph",
+            "text": "Jestlipak víte, co by se stalo, kdybychom neměli Pavla? Nejspíš byste tyhle řádky vůbec nečetli, protože by neexistoval náš web. Kdyby neexistoval náš web, nebyly ani jiné textové materiály – brožury, plakáty nebo letáky na naše akce. A pojďme ještě hlouběji do apokalypsy – bez Pavla by nebyly ani fotky. No a to by nám toho teda moc nezbylo!\nPavel je totiž náš CTO – technický ředitel, fotograf a vývojář a správce našeho webu, což vám asi došlo. Kromě práce u nás dělá softwarového inženýra v Avastu, fotí různé společenské akce a hodně cestuje.",
+            "spans": []
+          }
+        ],
+        "picture": {
+          "dimensions": {
+            "width": 512,
+            "height": 512
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/vzdelanibudoucnosti/a8e5159d-97c3-44c9-b0a5-123520e8d262_pavel.jpg?auto=compress,format"
+        },
+        "position": [
+          {
+            "type": "paragraph",
+            "text": "CTO, fotograf, software engineer",
+            "spans": []
+          }
+        ]
+      },
+      "link_type": "Document",
+      "isBroken": false
+    },
+    "equipment_price": null,
+    "equipment_info": []
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "rewrites": [
+    {
+      "source": "/re-sl",
+      "destination": "/blog/stitek/re-sl"
+    },
+    {
+      "source": "/aktuality",
+      "destination": "/blog"
+    },
+    {
+      "source": "/aktuality/:match*",
+      "destination": "/blog/:match*"
+    },
+    {
+      "source": "/kurzy",
+      "destination": "/krouzky-pro-dospele"
+    },
+    {
+      "source": "/kurzy/:match*",
+      "destination": "/krouzky-pro-dospele/:match*"
+    },
+    {
+      "source": "/krouzky",
+      "destination": "/krouzky-pro-deti"
+    },
+    {
+      "source": "/krouzky/:match*",
+      "destination": "/krouzky-pro-deti/:match*"
+    },
+    {
+      "source": "/krouzky-pro-deti/python-11-14-let-online-od-12-2-2021",
+      "destination": "/krouzky-pro-deti/python-11-14-let-online-od-12-2-2021/YBhI8REAACEAHnhk"
+    },
+    {
+      "source": "/krouzky-pro-deti/projektovy-den-3-python-a-web-scraping-zive-na-youtube",
+      "destination": "/krouzky-pro-deti/projektovy-den-3-python-a-web-scraping-zive-na-youtube/YBA8kxAAACcANtcB"
+    },
+    {
+      "source": "/krouzky-pro-deti/projektovy-den-4-python-a-umela-inteligence-zive-na-youtube",
+      "destination": "/krouzky-pro-deti/projektovy-den-4-python-a-umela-inteligence-zive-na-youtube/YBA7bxAAACgANtHo"
+    },
+    {
+      "source": "/krouzky-pro-deti/projektovy-den-4-python-a-umela-inteligence",
+      "destination": "/krouzky-pro-deti/projektovy-den-4-python-a-umela-inteligence/YAActhUAACkAIdrm"
+    },
+    {
+      "source": "/krouzky-pro-deti/projektovy-den-3-python-a-web-scraping",
+      "destination": "/krouzky-pro-deti/projektovy-den-3-python-a-web-scraping/YAAVMBUAACgAIbkC"
+    },
+    {
+      "source": "/krouzky-pro-deti/projektovy-den-2-python-a-kodovani",
+      "destination": "/krouzky-pro-deti/projektovy-den-2-python-a-kodovani/YAAShBUAACgAIaz3"
+    },
+    {
+      "source": "/krouzky-pro-deti/projektovy-den-1-running-dinosaur",
+      "destination": "/krouzky-pro-deti/projektovy-den-1-running-dinosaur/X_-PEBUAACcAH2yX"
+    },
+    {
+      "source": "/krouzky-pro-deti/python-ii",
+      "destination": "/krouzky-pro-deti/python-ii/X9lquhIAACcA6Ouu"
+    },
+    {
+      "source": "/kurzy-pro-dospele/python-pro-dospele-online",
+      "destination": "/kurzy-pro-dospele/python-pro-dospele-online/X9einBIAACkA4OQi"
+    },
+    {
+      "source": "/krouzky-pro-deti/python-15-19-let-online",
+      "destination": "/krouzky-pro-deti/python-15-19-let-online/X9OIFhIAACYAzqXq"
+    },
+    {
+      "source": "/krouzky-pro-deti/python-11-14-let-online",
+      "destination": "/krouzky-pro-deti/python-11-14-let-online/X9OEgRIAACcAzpW2"
+    },
+    {
+      "source": "/krouzky-pro-deti/neuronove-site",
+      "destination": "/krouzky-pro-deti/neuronove-site/X7vOVRIAACIAoq4X"
+    },
+    {
+      "source": "/registrace/python-11-14-let-online-od-12-2-2021",
+      "destination": "/registrace/python-11-14-let-online-od-12-2-2021/YBhI8REAACEAHnhk"
+    },
+    {
+      "source": "/registrace/projektovy-den-3-python-a-web-scraping-zive-na-youtube",
+      "destination": "/registrace/projektovy-den-3-python-a-web-scraping-zive-na-youtube/YBA8kxAAACcANtcB"
+    },
+    {
+      "source": "/registrace/projektovy-den-4-python-a-umela-inteligence-zive-na-youtube",
+      "destination": "/registrace/projektovy-den-4-python-a-umela-inteligence-zive-na-youtube/YBA7bxAAACgANtHo"
+    },
+    {
+      "source": "/registrace/projektovy-den-4-python-a-umela-inteligence",
+      "destination": "/registrace/projektovy-den-4-python-a-umela-inteligence/YAActhUAACkAIdrm"
+    },
+    {
+      "source": "/registrace/projektovy-den-3-python-a-web-scraping",
+      "destination": "/registrace/projektovy-den-3-python-a-web-scraping/YAAVMBUAACgAIbkC"
+    },
+    {
+      "source": "/registrace/projektovy-den-2-python-a-kodovani",
+      "destination": "/registrace/projektovy-den-2-python-a-kodovani/YAAShBUAACgAIaz3"
+    },
+    {
+      "source": "/registrace/projektovy-den-1-running-dinosaur",
+      "destination": "/registrace/projektovy-den-1-running-dinosaur/X_-PEBUAACcAH2yX"
+    },
+    {
+      "source": "/registrace/python-ii",
+      "destination": "/registrace/python-ii/X9lquhIAACcA6Ouu"
+    },
+    {
+      "source": "/registrace/python-pro-dospele-online",
+      "destination": "/registrace/python-pro-dospele-online/X9einBIAACkA4OQi"
+    },
+    {
+      "source": "/registrace/python-15-19-let-online",
+      "destination": "/registrace/python-15-19-let-online/X9OIFhIAACYAzqXq"
+    },
+    {
+      "source": "/registrace/python-11-14-let-online",
+      "destination": "/registrace/python-11-14-let-online/X9OEgRIAACcAzpW2"
+    },
+    {
+      "source": "/registrace/neuronove-site",
+      "destination": "/registrace/neuronove-site/X7vOVRIAACIAoq4X"
+    },
+    {
+      "source": "/krouzky-pro-deti/python-11-14-let/YCpkuBMAACQALGwe",
+      "destination": "/krouzky-pro-deti/python-11-14-let-d26736"
+    },
+    {
+      "source": "/krouzky-pro-deti/python-15-19-let/YCpkqhMAACMALGvW",
+      "destination": "/krouzky-pro-deti/python-15-19-let-d801849"
+    },
+    {
+      "source": "/kurzy-pro-dospele/python-pro-bitcoin-1_2/YCnD3RMAACQAKZyf",
+      "destination": "/kurzy-pro-dospele/python-pro-bitcoin-12-d847565"
+    },
+    {
+      "source": "/kurzy-pro-dospele/python-pro-bitcoin-2_2/YCnD0BMAACMAKZxc",
+      "destination": "/kurzy-pro-dospele/python-pro-bitcoin-22-tvorba-bota-d984366"
+    },
+    {
+      "source": "/krouzky-pro-deti/jarni-skola-1-4-zaklady-pythonu-na-projektech/YCm7GxMAACMAKXW4",
+      "destination": "/krouzky-pro-deti/jarni-skola-14-zaklady-pythonu-na-projektech-d531681"
+    },
+    {
+      "source": "/krouzky-pro-deti/jarni-skola-jak-pocitac-pracuje-s-obrazem/YCm7FRMAACMAKXWV",
+      "destination": "/krouzky-pro-deti/jarni-skola-24-jak-pocitac-pracuje-s-obrazem-d515528"
+    },
+    {
+      "source": "/krouzky-pro-deti/jarni-skola-scratch-a-robot-edison/YCm6wBMAACMAKXQX",
+      "destination": "/krouzky-pro-deti/jarni-skola-34-scratch-a-microbit-d931527"
+    },
+    {
+      "source": "/krouzky-pro-deti/jarni-skola-python-a-robot-edison/YCm6rRMAACMAKXO6",
+      "destination": "/krouzky-pro-deti/jarni-skola-44-python-a-microbit-d354776"
+    },
+    {
+      "source": "/krouzky-pro-deti/python-11-14-let-online-od-12-2-2021/YBhI8REAACEAHnhk",
+      "destination": "/krouzky-pro-deti/python-11-14-let-online-od-12-2-2021-d723672"
+    },
+    {
+      "source": "/krouzky-pro-deti/projektovy-den-3-python-a-web-scraping-zive-na-youtube/YBA8kxAAACcANtcB",
+      "destination": "/krouzky-pro-deti/projektovy-den-3-python-a-web-scraping-zive-na-youtube-d715828"
+    },
+    {
+      "source": "/krouzky-pro-deti/projektovy-den-4-python-a-umela-inteligence-zive-na-youtube/YBA7bxAAACgANtHo",
+      "destination": "/krouzky-pro-deti/projektovy-den-4-python-a-umela-inteligence-zive-na-youtube-d174373"
+    },
+    {
+      "source": "/krouzky-pro-deti/projektovy-den-4-python-a-umela-inteligence/YAActhUAACkAIdrm",
+      "destination": "/krouzky-pro-deti/projektovy-den-4-python-a-umela-inteligence-d913257"
+    },
+    {
+      "source": "/krouzky-pro-deti/projektovy-den-3-python-a-web-scraping/YAAVMBUAACgAIbkC",
+      "destination": "/krouzky-pro-deti/projektovy-den-3-python-a-web-scraping-d410340"
+    },
+    {
+      "source": "/krouzky-pro-deti/projektovy-den-2-python-a-kodovani/YAAShBUAACgAIaz3",
+      "destination": "/krouzky-pro-deti/projektovy-den-2-python-a-kodovani-d905731"
+    },
+    {
+      "source": "/krouzky-pro-deti/projektovy-den-1-running-dinosaur/X_-PEBUAACcAH2yX",
+      "destination": "/krouzky-pro-deti/projektovy-den-1-running-dinosaur-d78171"
+    },
+    {
+      "source": "/krouzky-pro-deti/python-ii/X9lquhIAACcA6Ouu",
+      "destination": "/krouzky-pro-deti/python-ii-od-8-2-2021-d874409"
+    },
+    {
+      "source": "/kurzy-pro-dospele/python-pro-dospele-online/X9einBIAACkA4OQi",
+      "destination": "/kurzy-pro-dospele/online-kurz-pythonu-pro-dospele-d59726"
+    },
+    {
+      "source": "/krouzky-pro-deti/python-15-19-let-online/X9OIFhIAACYAzqXq",
+      "destination": "/krouzky-pro-deti/python-15-19-let-online-d511367"
+    },
+    {
+      "source": "/krouzky-pro-deti/python-11-14-let-online/X9OEgRIAACcAzpW2",
+      "destination": "/krouzky-pro-deti/python-11-14-let-online-d203558"
+    },
+    {
+      "source": "/krouzky-pro-deti/neuronove-site/X7vOVRIAACIAoq4X",
+      "destination": "/krouzky-pro-deti/neuronove-site-d62183"
+    },
+    {
+      "source": "/registrace/python-11-14-let/YCpkuBMAACQALGwe",
+      "destination": "/registrace/python-11-14-let-d26736"
+    },
+    {
+      "source": "/registrace/python-15-19-let/YCpkqhMAACMALGvW",
+      "destination": "/registrace/python-15-19-let-d801849"
+    },
+    {
+      "source": "/registrace/python-pro-bitcoin-1_2/YCnD3RMAACQAKZyf",
+      "destination": "/registrace/python-pro-bitcoin-12-d847565"
+    },
+    {
+      "source": "/registrace/python-pro-bitcoin-2_2/YCnD0BMAACMAKZxc",
+      "destination": "/registrace/python-pro-bitcoin-22-tvorba-bota-d984366"
+    },
+    {
+      "source": "/registrace/jarni-skola-1-4-zaklady-pythonu-na-projektech/YCm7GxMAACMAKXW4",
+      "destination": "/registrace/jarni-skola-14-zaklady-pythonu-na-projektech-d531681"
+    },
+    {
+      "source": "/registrace/jarni-skola-jak-pocitac-pracuje-s-obrazem/YCm7FRMAACMAKXWV",
+      "destination": "/registrace/jarni-skola-24-jak-pocitac-pracuje-s-obrazem-d515528"
+    },
+    {
+      "source": "/registrace/jarni-skola-scratch-a-robot-edison/YCm6wBMAACMAKXQX",
+      "destination": "/registrace/jarni-skola-34-scratch-a-microbit-d931527"
+    },
+    {
+      "source": "/registrace/jarni-skola-python-a-robot-edison/YCm6rRMAACMAKXO6",
+      "destination": "/registrace/jarni-skola-44-python-a-microbit-d354776"
+    },
+    {
+      "source": "/registrace/python-11-14-let-online-od-12-2-2021/YBhI8REAACEAHnhk",
+      "destination": "/registrace/python-11-14-let-online-od-12-2-2021-d723672"
+    },
+    {
+      "source": "/registrace/projektovy-den-3-python-a-web-scraping-zive-na-youtube/YBA8kxAAACcANtcB",
+      "destination": "/registrace/projektovy-den-3-python-a-web-scraping-zive-na-youtube-d715828"
+    },
+    {
+      "source": "/registrace/projektovy-den-4-python-a-umela-inteligence-zive-na-youtube/YBA7bxAAACgANtHo",
+      "destination": "/registrace/projektovy-den-4-python-a-umela-inteligence-zive-na-youtube-d174373"
+    },
+    {
+      "source": "/registrace/projektovy-den-4-python-a-umela-inteligence/YAActhUAACkAIdrm",
+      "destination": "/registrace/projektovy-den-4-python-a-umela-inteligence-d913257"
+    },
+    {
+      "source": "/registrace/projektovy-den-3-python-a-web-scraping/YAAVMBUAACgAIbkC",
+      "destination": "/registrace/projektovy-den-3-python-a-web-scraping-d410340"
+    },
+    {
+      "source": "/registrace/projektovy-den-2-python-a-kodovani/YAAShBUAACgAIaz3",
+      "destination": "/registrace/projektovy-den-2-python-a-kodovani-d905731"
+    },
+    {
+      "source": "/registrace/projektovy-den-1-running-dinosaur/X_-PEBUAACcAH2yX",
+      "destination": "/registrace/projektovy-den-1-running-dinosaur-d78171"
+    },
+    {
+      "source": "/registrace/python-ii/X9lquhIAACcA6Ouu",
+      "destination": "/registrace/python-ii-od-8-2-2021-d874409"
+    },
+    {
+      "source": "/registrace/python-pro-dospele-online/X9einBIAACkA4OQi",
+      "destination": "/registrace/online-kurz-pythonu-pro-dospele-d59726"
+    },
+    {
+      "source": "/registrace/python-15-19-let-online/X9OIFhIAACYAzqXq",
+      "destination": "/registrace/python-15-19-let-online-d511367"
+    },
+    {
+      "source": "/registrace/python-11-14-let-online/X9OEgRIAACcAzpW2",
+      "destination": "/registrace/python-11-14-let-online-d203558"
+    },
+    {
+      "source": "/registrace/neuronove-site/X7vOVRIAACIAoq4X",
+      "destination": "/registrace/neuronove-site-d62183"
+    }
+  ]
+}
